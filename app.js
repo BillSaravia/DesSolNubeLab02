@@ -23,6 +23,7 @@ const html = `
         });
       }, 500);
     </script>
+    <title>Proyecto web</title>
     <style>
       @import url("https://p.typekit.net/p.css?s=1&k=vnd5zic&ht=tk&f=39475.39476.39477.39478.39479.39480.39481.39482&a=18673890&app=typekit&e=css");
       @font-face {
@@ -52,7 +53,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render!
+      Desarrollo de Soluciones en la Nube
     </section>
   </body>
 </html>
